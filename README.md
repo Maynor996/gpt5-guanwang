@@ -1,9 +1,10 @@
-# GPT-5 官网与 GPT-6 过渡说明
+# GPT-5官网怎么进？向GPT-6过渡说明
 
 中文说明页关键词：**gpt-5官网**
 
 - GitHub Pages：https://maynor996.github.io/gpt5-guanwang/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：GPT-5官网入口说明，并给出向GPT-6过渡的对比建议。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
